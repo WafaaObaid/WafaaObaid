@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Computer Science student with a solid foundation in backend and frontend development, as well as data processing.<br>Interested in building real-world systems, improving problem-solving skills, and continuously learning new technologies.</p>
+<p align="left">Computer Science student and aspiring AI Engineer with a solid background in Full-stack web technologies and Data Science. Proficient in building scalable applications using Java, JS, PHP, and Python, with a focus on integrating intelligent, data-driven solutions. I enjoy bridging the gap between robust server logic and impactful user experiences, while continuously expanding my expertise in Machine Learning and Generative AI. I am passionate about leveraging data to build practical systems and eager to contribute to innovative, collaborative projects.</p>
 
 ###
 
