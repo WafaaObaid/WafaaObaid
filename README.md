@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Computer Science student and aspiring AI Engineer with a solid background in Full-stack web technologies and Data Science. Proficient in building scalable applications using Java, JS, PHP, and Python, with a focus on integrating intelligent, data-driven solutions. I enjoy bridging the gap between robust server logic and impactful user experiences, while continuously expanding my expertise in Machine Learning and Generative AI. I am passionate about leveraging data to build practical systems and eager to contribute to innovative, collaborative projects.</p>
+<p align="left">Backend Developer specializing in Laravel, with hands-on experience in building web applications and managing databases. Strongly interested in Artificial Intelligence, with a growing focus on exploring AI technologies, experimenting with AI solutions, and continuously expanding my knowledge in the field. Eager to combine backend development skills with AI to build innovative and practical solutions.</p>
 
 ###
 
@@ -19,8 +19,6 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -48,7 +46,7 @@
   <a href="https://www.linkedin.com/in/wafaa-obaid-91139a34a/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="wafaawessam2006@gmail.com" target="_blank">
+  <a href="wafaaobaid2026@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
